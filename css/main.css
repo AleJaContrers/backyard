@@ -1,0 +1,73 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.cajauno{
+	margin-top: 2%;
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+	padding-right:12%;
+}
+
+.c1lista a{
+	text-decoration: none;
+	color: black;
+}
+
+.cajados{
+	background-color: #8E8B8B;
+}
+
+.c2texto{
+	margin-top: 6%;
+	margin-bottom: 6%;
+	color: white;
+}
+
+.c2texto h1{
+	font-size: 310%;
+	width: 85%;
+}
+
+.c2texto p{
+	margin-top: 4%;
+	font-size: 93%;
+	width: 85%;
+}
+
+.c2caja{
+	margin-top: 4%;
+	background-color: #B4ABAB;
+	text-align: center;
+	border-radius: 5%;
+	width: 25%;
+}
+
+.info{
+	margin-top: 5%;
+}
+.c2caja h1{
+	color: white;
+	font-size: 100%;
+
+}
+.feedback-input{
+	width: 90%;
+	margin-top: 3%;
+}
+.cont-btn #btn-suscribe{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 90%;
+	color: white;
+	background-color: #32C5C0;
+	font-size: 90%;
+}
+
+.cajatres{
+	color: #8E8B8B;
+	margin-top: 2%;
+}
+
